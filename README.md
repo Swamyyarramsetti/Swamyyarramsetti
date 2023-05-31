@@ -20,7 +20,7 @@ const Swamy = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techWork: {
                         Competitive Programming: "Solving Problems",
-                        OPEN SOURCE Dev : "RandomCoderOrg",
+                        OPEN SOURCE Dev : "Parul University",
                         Technical Content Writer: "GeeksForGeeks"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Django, Django REST api, React and DSA"
